@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1600" height="904" alt="hospital use case" src="https://github.com/user-attachments/assets/a8c9f9c6-6c2d-40c1-9fd3-e93a6047b0a1" />
 
 
 
