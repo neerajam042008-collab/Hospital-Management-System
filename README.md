@@ -70,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="812" height="462" alt="hospital communication" src="https://github.com/user-attachments/assets/b4ec358e-be0b-43c0-a25b-5293d574ff91" />
 
 
 
@@ -102,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="720" height="551" alt="hospital activity" src="https://github.com/user-attachments/assets/86670c6d-be69-4b24-b3b6-e7eae6ccdf92" />
 
 
 
