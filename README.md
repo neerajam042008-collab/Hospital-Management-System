@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240099
+# Name:NEERAJA MADASAMY
+# Date:24/11/2026
 
 
 # AIM:
@@ -59,6 +59,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1532" height="813" alt="hospital class" src="https://github.com/user-attachments/assets/30860210-9d44-48e5-9014-7447ab602f42" />
 
 
 
@@ -80,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1287" height="805" alt="hospital package" src="https://github.com/user-attachments/assets/4923f28f-ddf2-44ad-8912-40c1935a87ab" />
 
 
 
