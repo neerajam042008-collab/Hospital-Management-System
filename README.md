@@ -122,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1535" height="816" alt="hospital sequence" src="https://github.com/user-attachments/assets/93382197-e201-4139-b3e0-f05faab5693d" />
 
 
 
